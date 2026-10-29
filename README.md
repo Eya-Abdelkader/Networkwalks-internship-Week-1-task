@@ -59,7 +59,7 @@ I completed all of the extra Wireshark projects. They helped me learn how to ext
 | 3 | Follow the TCP stream 2 |
 | 4 | HTTP Plain Text Credentials |
 | 5 | Catch the brute force attacker |
-| 4 | Catch the call scammer  |
+| 6 | Catch the call scammer  |
 
 ---
 
