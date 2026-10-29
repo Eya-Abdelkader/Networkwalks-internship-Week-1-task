@@ -54,10 +54,12 @@ I completed all of the extra Wireshark projects. They helped me learn how to ext
 
 | # | Lab |
 |---|-----|
-| 1 | [Lab 1 name] |
-| 2 | [Lab 2 name] |
-| 3 | [Lab 3 name] |
-| 4 | [Lab 4 name] |
+| 1 | Identify the attacker's IP |
+| 2 | Follow the TCP stream 1 |
+| 3 | Follow the TCP stream 2 |
+| 4 | HTTP Plain Text Credentials |
+| 5 | Catch the brute force attacker |
+| 4 | Catch the call scammer  |
 
 ---
 
@@ -70,9 +72,7 @@ I completed all of the extra Wireshark projects. They helped me learn how to ext
 - Extracting important information from network traffic with Wireshark
 - Documenting technical work clearly
 
-## Acknowledgements
 
-Thanks to [Mentor name] and the Networkwalks team for the guidance and support.
 
 ---
 
